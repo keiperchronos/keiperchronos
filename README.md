@@ -2,9 +2,8 @@
 <h1 align="center">🔷 Olá, eu sou o Keiper 🔷</h1>
 
 <p align="center">  
-  <a title="Email para Miguel" href="mailto:dev.macb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2850B8"></a>
-  <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2850B8"></a> 
-  <a title="Instagram do Miguel" href="https://www.instagram.com/miguel_acb9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=2850B8"></a>
+  <a title="Email para Keiper" href="keiperpog@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2850B8"></a>
+  <a title="Instagram do Keiper" href="https://www.instagram.com/keiperdied/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=2850B8"></a>
 </p>
 
 <!-- Descrição(Código) -->
