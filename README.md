@@ -1,6 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/852607980541050890?borderRadius=10px&idleMessage=Nenhuma%20atividade)](https://discord.com/users/852607980541050890)
-
-
 
 
 <h1 align="center">🔷 Olá, eu sou o Keiper 🔷</h1>
